@@ -1,0 +1,25 @@
+{
+  "name": "titlecase",
+  "version": "1.0.0",
+  "description": "Coverts the string to title case for ex:- I am good\" it converst to I Am Good",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeshramya/titlecase.git"
+  },
+  "keywords": [
+    "String",
+    "titlecase",
+    "lowercase",
+    "uppercase"
+  ],
+  "author": "Dr Umesh R Bilagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umeshramya/titlecase/issues"
+  },
+  "homepage": "https://github.com/umeshramya/titlecase#readme"
+}
