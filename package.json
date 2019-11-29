@@ -1,6 +1,6 @@
 {
   "name": "titlecase",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Coverts the string to title case for ex:- I am good\" it converst to I Am Good",
   "main": "index.js",
   "scripts": {
